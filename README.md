@@ -1,17 +1,9 @@
 # Sobre mi 
-<table align="right" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><img src="https://github.com/user-attachments/assets/5c66eb13-bbbc-45e9-853d-2a15bf962700" width="150" alt="GIF 2"></td>
-    <td style="border: none;"><img src="https://github.com/user-attachments/assets/aa024af6-d68f-4149-8a22-fe0e92a30892" width="200" alt="Emoji Hello GIF"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <img width="100" height="100" alt="3013db1f07a74b56913800434e3ac19c" src="https://github.com/user-attachments/assets/ac072265-f59a-49b4-a315-93660a9a371e">
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/5c66eb13-bbbc-45e9-853d-2a15bf962700" width="150" align="right" alt="GIF 2">
+<img src="https://github.com/user-attachments/assets/aa024af6-d68f-4149-8a22-fe0e92a30892" width="200" align="right" alt="Emoji Hello GIF">
 
-> ¡Hola! Me llamo Diego y actualmente trabajo como Tech Soucer en Buk :D
+> ¡Hola! Me llamo Diego y actualmente trabajo como Tech Sourcer en <img width="38" height="35" alt="3013db1f07a74b56913800434e3ac19c" src="https://github.com/user-attachments/assets/ac072265-f59a-49b4-a315-93660a9a371e" align="center" />
+
 
 ***¿Qué es Buk?*** La plataforma HR líder de LATAM. 
 Principalmente me dedico a huntear devs  y unirlos con equipos de ingeniería reales que impactan
