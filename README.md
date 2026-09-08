@@ -5,8 +5,7 @@
 > ¡Hola! Me llamo Diego y actualmente trabajo como Tech Soucer en Buk :D
 
 ***¿Qué es Buk?*** La plataforma HR líder de LATAM. 
-Principalmente me dedico a huntear devs    
-y unirlos con equipos de ingeniería reales que impactan
+Principalmente me dedico a huntear devs  y unirlos con equipos de ingeniería reales que impactan
 a más de 2.500.000 de usuarios. 
 
 
